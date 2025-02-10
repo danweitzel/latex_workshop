@@ -5,7 +5,7 @@
 ## Purpose: Generating a graph and a table for the LaTeX workshop
 
 ## Set the working directory
-setwd("~/Dropbox/Downloads/latex_workshop/")
+setwd("")
 
 # Install the necessary package from Github
 #library(devtools)
