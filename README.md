@@ -50,4 +50,6 @@ To download all files from this repository and unpack them as a folder on your c
    - **Mac**: Double-click the file to extract it.  
 4. Open the extracted folder to access all workshop materials.  
 
-This repository is designed to help students efficiently organize and compile professional-quality LaTeX documents.  
+## Using Overleaf and Dropbox Sync  
+
+If you prefer to write in LaTeX using Overleaf, you can easily upload the files from this repository to your Overleaf project. Overleaf also offers **Dropbox synchronization**, allowing you to edit LaTeX files locally while keeping them updated in Overleaf. To enable this, link your Overleaf account to Dropbox by going to **Account Settings > Linked Accounts > Dropbox**. Once linked, Overleaf will create a folder in Dropbox where you can add or modify files, and changes will automatically sync between Overleaf and Dropbox. This is a great way to integrate Overleaf with local editing tools like Sublime Text while ensuring your work is backed up and accessible across devices. It also allows you to automatically upload tables and graphs you produce locally. Generate a figures and a tables folder in the Overleaf Dropbox folder and write your files from R to these folders. 
