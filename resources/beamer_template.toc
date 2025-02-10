@@ -1,4 +1,0 @@
-\beamer@sectionintoc {1}{Research Question}{2}{0}{1}
-\beamer@sectionintoc {2}{Literature/Theory}{4}{0}{2}
-\beamer@sectionintoc {3}{Research Question}{5}{0}{3}
-\beamer@sectionintoc {4}{Research Question}{6}{0}{4}
