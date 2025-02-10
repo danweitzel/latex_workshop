@@ -2,6 +2,24 @@
 
 This repository contains the materials for the LaTeX workshop at Colorado State University. The workshop introduces students to **LaTeX** and **Beamer**, covering file setup, writing LaTeX code, and automating the integration of tables and figures generated in **R**.  
 
+## Software Installation  
+
+Before starting the workshop, students need to install LaTeX on their computer. We recommend the following distributions:  
+
+- **Windows**: [MiKTeX](https://miktex.org/download)  
+- **Mac**: [MacTeX](https://tug.org/mactex/)  
+
+Both distributions include everything needed to compile LaTeX documents.  
+
+For editing LaTeX files, we recommend **Sublime Text 3**, which is available for download at [https://www.sublimetext.com/3](https://www.sublimetext.com/3). To enable LaTeX support in Sublime Text, students should also install the **LaTeXTools** package:  
+
+1. Open Sublime Text and press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac).  
+2. Type `"Package Control: Install Package"` and select it.  
+3. Search for `"LaTeXTools"` and install it.  
+
+With these installations, students will have a complete LaTeX setup ready for the workshop.  
+
+
 ## Repository Structure  
 
 ### `manuscript/`  
