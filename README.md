@@ -11,11 +11,12 @@ Before starting the workshop, students need to install LaTeX on their computer. 
 
 Both distributions include everything needed to compile LaTeX documents.  
 
-For editing LaTeX files, we recommend **Sublime Text 3**, which is available for download at [https://www.sublimetext.com/3](https://www.sublimetext.com/3). To enable LaTeX support in Sublime Text, students should also install the **LaTeXTools** package:  
+For editing LaTeX files, you can also use powerful text editors. A very popular editor for this is **Sublime Text**, which is available for download at [https://www.sublimetext.com/download](https://www.sublimetext.com/download). To enable LaTeX support in Sublime Text, students should also install the **LaTeXTools** package:  
 
 1. Open Sublime Text and press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac).  
 2. Type `"Package Control: Install Package"` and select it.  
-3. Search for `"LaTeXTools"` and install it.  
+3. Search for `"LaTeXTools"` and install it.
+4. You now can open LaTeX files in Sublime Text and compile them with `Ctrl+B` (Windows/Linux) or `Cmd+B` (Mac).  
 
 With these installations, students will have a complete LaTeX setup ready for the workshop.  
 
