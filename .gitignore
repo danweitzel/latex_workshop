@@ -1,0 +1,34 @@
+# LaTeX intermediate files
+*.aux
+*.log
+*.out
+*.toc
+*.lot
+*.lof
+*.gz
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+*.nav
+*.snm
+*.dvi
+*.ps
+*.pdf~
+*.~*
+
+# LaTeX backup files
+*~
+# Sublime Text-specific files
+*.sublime-project
+*.sublime-workspace
+
+# Emacs backup files
+*~
+# TeXShop-specific files
+*.tex~  
+*.pdfsync
+
+# Overleaf temporary files
+.overleaf-v2
