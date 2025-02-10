@@ -1,0 +1,25 @@
+<snippet>
+	<content><![CDATA[
+\begin{figure}[htbp] % Placement specifier
+\centering
+\begin{minipage}{0.48\textwidth} % Adjust width as needed
+    \centering
+    \includegraphics[width=\textwidth]{} % Path to your first image
+        \subcaption{}
+            \label{}
+\end{minipage}
+\begin{minipage}{0.48\textwidth} % Adjust width as needed
+    \centering
+    \includegraphics[width=\textwidth]{} % Path to your second image
+    \subcaption{}
+    \label{}
+\end{minipage}
+\caption{}
+\label{}
+\end{figure}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>insert_multifig</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.tex.latex</scope>
+</snippet>

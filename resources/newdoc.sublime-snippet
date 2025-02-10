@@ -1,0 +1,107 @@
+<snippet>
+	<content><![CDATA[
+\documentclass{article}
+\usepackage[letterpaper, margin=1in]{geometry} % set margins
+
+\usepackage{setspace} % to set spacing
+%\singlespacing
+\doublespacing
+
+% Figures and colors
+\usepackage{graphicx,caption,subcaption} % for figures and captions
+\usepackage{xcolor}
+
+% Equations and formulas
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{bm}
+\usepackage{nccmath}
+
+% For modelsummary tables
+\usepackage{booktabs}
+\usepackage{siunitx}
+
+% Codec and language
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[english]{babel}
+
+% Links and crossreferences
+\usepackage{hyperref} % for links
+\hypersetup{
+    colorlinks,
+    linkcolor={red!50!black},
+    citecolor={blue!50!black},
+    urlcolor={blue!80!black}
+}
+
+% References and Appendix
+\usepackage[round]{natbib} % for citations
+
+
+\title{Title\footnote{Note to title}}
+\author{First  Author\footnote{Position, Institution Contact: \texttt{\href{mailto:first.last@institution.edu}{first.last@institution.edu}}}
+\and
+Second  Author\footnote{Position, Institution Contact:  \texttt{\href{mailto:first.last@institution.ed}{first.last@institution.ed}}}}
+\date{\today}
+
+
+
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+My abstract
+\end{abstract}
+
+
+\newpage
+\tableofcontents
+
+\newpage
+\section{Introduction}
+\label{sec:intro}
+
+
+
+\newpage
+\section{Theory}
+\label{sec:theory}
+
+
+
+\newpage
+\section{Empirics}
+\label{sec:empirics}
+
+\subsection{Methodology}
+\label{sec:methods}
+
+
+\subsection{Data}
+\label{sec:data}
+
+
+\newpage
+\section{Results}
+\label{sec:results}
+
+
+
+\newpage
+\section{Discussion}
+\label{sec:discussion}
+
+
+\newpage
+\bibliographystyle{apsr}
+\bibliography{~/Dropbox/org/org-ref/references.bib}
+
+\end{document}
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>newdoc</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>text.tex.latex</scope>
+</snippet>
