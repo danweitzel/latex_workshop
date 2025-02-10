@@ -48,10 +48,6 @@ To download all files from this repository and unpack them as a folder on your c
 3. Locate the downloaded `.zip` file and extract it using:  
    - **Windows**: Right-click the file and select **"Extract All"**.  
    - **Mac**: Double-click the file to extract it.  
-   - **Linux**: Use the command:  
-     ```sh
-     unzip repository-name.zip
-     ```  
 4. Open the extracted folder to access all workshop materials.  
 
 This repository is designed to help students efficiently organize and compile professional-quality LaTeX documents.  
