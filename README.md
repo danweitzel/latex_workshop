@@ -28,7 +28,9 @@ Contains `manuscript.tex` and three subfolders:
 - **`chapters/`** – Stores individual chapter files.  
 - **`figures/`** – Holds figure files referenced in the manuscript.  
 - **`tables/`** – Includes tables generated for the manuscript.  
-- `manuscript.tex` demonstrates how to structure a LaTeX document and link figures, tables, and chapters from these subfolders.*  
+- `manuscript.tex` demonstrates how to structure a LaTeX document and link figures, tables, and chapters from these subfolders.*
+- - **`csu_thesis/`** – Includes a `.tex` and a `.sty` file matching the formating requirements for a thesis/dissertation at CSU.   
+
 
 ### `scripts/`  
 Includes an **R script** that generates a table and a graph using data from the **2020 ANES Pilot Study**, which are then automatically integrated into the LaTeX document.  
