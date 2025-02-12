@@ -29,7 +29,7 @@ Contains `manuscript.tex` and three subfolders:
 - **`figures/`** – Holds figure files referenced in the manuscript.  
 - **`tables/`** – Includes tables generated for the manuscript.  
 - `manuscript.tex` demonstrates how to structure a LaTeX document and link figures, tables, and chapters from these subfolders.*
-- - **`csu_thesis/`** – Includes a `.tex` and a `.sty` file matching the formating requirements for a thesis/dissertation at CSU.   
+- **`csu_thesis/`** – Includes a `.tex` and a `.sty` file matching the formating requirements for a thesis/dissertation at CSU.   
 
 
 ### `scripts/`  
