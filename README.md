@@ -16,7 +16,8 @@ For editing LaTeX files, you can also use powerful text editors. A very popular 
 1. Open Sublime Text and press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac).  
 2. Type `"Package Control: Install Package"` and select it.  
 3. Search for `"LaTeXTools"` and install it.
-4. You now can open LaTeX files in Sublime Text and compile them with `Ctrl+B` (Windows/Linux) or `Cmd+B` (Mac).  
+4. You now can open LaTeX files in Sublime Text and compile them with `Ctrl+B` (Windows/Linux) or `Cmd+B` (Mac).
+5. [Skim](http://skim-app.sourceforge.net/) (for Mac) and [Sumatra PDF](http://blog.kowalczyk.info/software/sumatrapdf/download-free-pdf-viewer.html) (for Windows) automatically scan the PDF for updates and reload once you compile a LaTeX document with an open PDF. For Skim you need to open Preferences -> Sync and then set the PDF_Tex Sync Preset to Sublime Text.
 
 With these installations, students will have a complete LaTeX setup ready for the workshop.  
 
